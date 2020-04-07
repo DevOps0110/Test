@@ -1,1 +1,1 @@
-set PATH=%PATH%;C:\Users\devopsadmin\Desktop\LiquibaseMSSQL\liquibase-3.8.8\1
+set PATH=%PATH%;C:\Users\devopsadmin\Desktop\LiquibaseMSSQL\liquibase-3.8.8\2
