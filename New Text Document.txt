@@ -1,2 +1,4 @@
 set PATH=%PATH%;C:\Users\devopsadmin\Desktop\LiquibaseMSSQL\liquibase-3.8.8\
 dvsdsvn sdv dsv
+
+patch-1
